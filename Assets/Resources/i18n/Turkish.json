@@ -1,0 +1,66 @@
+[
+    {
+        "key": "PLAY",
+        "translation": "Oyna"
+    },
+	{
+        "key": "SETTINGS",
+        "translation": "Ayarlar"
+    },
+	{
+        "key": "EXIT",
+        "translation": "\u00C7\u0131k\u0131\u015F"
+    },
+	{
+        "key": "RECORD",
+        "translation": "Rekor : "
+    },
+	{
+        "key": "CALIBRATION",
+        "translation": "Kalibrasyon"
+    },
+	{
+        "key": "BACK",
+        "translation": "Geri"
+    },
+	{
+        "key": "MASTER_SOUND",
+        "translation": "Ses"
+    },
+	{
+        "key": "SET_CALIBRATION",
+        "translation": "Kalibrasyonu Onayla"
+    },
+	{
+        "key": "RESET_CALIBRATION",
+        "translation": "Kalibrasyonu S\u0131f\u0131rla"
+    },
+	{
+		"key": "CALIBRATION_INFO",
+		"translation": "Kalibrasyon i\u00E7in cihaz\u0131n\u0131z\u0131 d\u00FCz bir zeminde dik pozisyonda tutarken \"Kalibrasyonu Onayla\" butonuna basmal\u0131s\u0131n\u0131z. Kalibrasyon onayland\u0131ktan sonra Halka do\u011Fru konuma gelecektir."
+	},
+	{
+        "key": "RESET_CALIBRATION_INFO",
+        "translation": "Kalibrasyon S\u0131f\u0131rland\u0131"
+    },
+	{
+        "key": "SET_CALIBRATION_INFO",
+        "translation": "Kalibrasyon Onayland\u0131"
+    },
+	{
+        "key": "SCORE",
+        "translation": "Skor : "
+    },
+	{
+        "key": "PLAY_AGAIN",
+        "translation": "Tekrar Oyna"
+    },
+	{
+        "key": "MAIN_MENU",
+        "translation": "Ana Men\u00FC"
+    },
+	{
+        "key": "CONTINUE",
+        "translation": "Devam"
+    }
+]

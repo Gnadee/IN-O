@@ -1,0 +1,66 @@
+[
+    {
+        "key": "PLAY",
+        "translation": "Jouer"
+    },
+	{
+        "key": "SETTINGS",
+        "translation": "Param\u00E8tres"
+    },
+	{
+        "key": "EXIT",
+        "translation": "Sortie"
+    },
+	{
+        "key": "RECORD",
+        "translation": "Record : "
+    },
+	{
+        "key": "CALIBRATION",
+        "translation": "\u00C9talonnage"
+    },
+	{
+        "key": "BACK",
+        "translation": "Arri\u00E8re"
+    },
+	{
+        "key": "MASTER_SOUND",
+        "translation": "Du son"
+    },
+	{
+        "key": "SET_CALIBRATION",
+        "translation": "D\u00E9finir l'\u00E9talonnage"
+    },
+	{
+        "key": "RESET_CALIBRATION",
+        "translation": "R\u00E9initialiser l'\u00E9talonnage"
+    },
+	{
+		"key": "CALIBRATION_INFO",
+		"translation": "Pour l'\u00E9talonnage, vous devez appuyer sur le bouton \"D\u00E9finir l'\u00E9talonnage\" tout en maintenant votre appareil dans une position verticale et stable. Une fois l'\u00E9talonnage confirm\u00E9, l'anneau sera dans la bonne position."
+	},
+	{
+        "key": "RESET_CALIBRATION_INFO",
+        "translation": "Le calibrage est r\u00E9initialis\u00E9"
+    },
+	{
+        "key": "SET_CALIBRATION_INFO",
+        "translation": "Le calibrage est d\u00E9fini"
+    },
+	{
+        "key": "SCORE",
+        "translation": "But : "
+    },
+	{
+        "key": "PLAY_AGAIN",
+        "translation": "Rejouer"
+    },
+	{
+        "key": "MAIN_MENU",
+        "translation": "Menu principal"
+    },
+	{
+        "key": "CONTINUE",
+        "translation": "Continuer"
+    }
+]
