@@ -1,0 +1,66 @@
+[
+    {
+        "key": "PLAY",
+        "translation": "Spielen"
+    },
+	{
+        "key": "SETTINGS",
+        "translation": "Einstellungen"
+    },
+	{
+        "key": "EXIT",
+        "translation": "Ausgang"
+    },
+	{
+        "key": "RECORD",
+        "translation": "Aufzeichnung : "
+    },
+	{
+        "key": "CALIBRATION",
+        "translation": "Kalibrierung"
+    },
+	{
+        "key": "BACK",
+        "translation": "Zur\u00FCck"
+    },
+	{
+        "key": "MASTER_SOUND",
+        "translation": "Klingen"
+    },
+	{
+        "key": "SET_CALIBRATION",
+        "translation": "Kalibrierung anwenden"
+    },
+	{
+        "key": "RESET_CALIBRATION",
+        "translation": "Kalibrierung zur\u00FCcksetzen"
+    },
+	{
+		"key": "CALIBRATION_INFO",
+		"translation": "Zur Kalibrierung sollten Sie den Knopf \"Kalibrierung anwenden\" dr\u00FCcken, w\u00E4hrend Sie Ihr Ger\u00E4t in einer vertikalen Position in einer stabilen Position halten. Sobald die Kalibrierung best\u00E4tigt ist, befindet sich der Ring in der richtigen Position"
+	},
+	{
+        "key": "RESET_CALIBRATION_INFO",
+        "translation": "Kalibrierung zur\u00FCckgesetzt"
+    },
+	{
+        "key": "SET_CALIBRATION_INFO",
+        "translation": "Kalibrierung best\u00E4tigt"
+    },
+	{
+        "key": "SCORE",
+        "translation": "Ergebnis : "
+    },
+	{
+        "key": "PLAY_AGAIN",
+        "translation": "Spiel nochmal"
+    },
+	{
+        "key": "MAIN_MENU",
+        "translation": "Hauptmen\u00FC"
+    },
+	{
+        "key": "CONTINUE",
+        "translation": "Fortsetzen"
+    }
+]
